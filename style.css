@@ -1,7 +1,7 @@
 /* Define estilos para o elemento <body> do documento HTML */
 body {
     /* Define a cor do texto como branco */
-    color: white;
+    color: rgb(255, 0, 0);
     
     /* Define a cor de fundo da página como preto */
     background: black;
