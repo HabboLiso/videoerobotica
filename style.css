@@ -17,19 +17,27 @@ body {
 }
 
 .chamada {
-    background: rgb (184, 156, 213);
+    /* Define a cor de fundo como um tom roxo claro */
+    background: rgb(184, 156, 213);
+    
+    /* Adiciona 80 pixels de espaço em cima e embaixo */
     padding-bottom: 80px;
     padding-top: 80px;
+    
+    /* Exibe os elementos de forma flexível e centraliza o conteúdo */
     display: flex;
     justify-content: center;
 }
-
 chamada-texto {
-    margin-right: 5%
+    /* Adiciona um espaço de 5% à direita do texto */
+    margin-right: 5%;
 }
 h1 {
+    /* Define o tamanho da fonte do título (h1) como 40 pixels */
     font-size: 40px;
 }
+
 p {
+    /* Define o tamanho da fonte do parágrafo (p) como 20 pixels */
     font-size: 20px;
 }
