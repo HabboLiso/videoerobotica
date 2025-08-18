@@ -7,11 +7,11 @@ body {
     background: black;
     
     /* Remove todas as margens externas do body */
-    margin: 0px;
+    margin: 100px
     
     /* Define a fonte do texto como "Chakra Petch" e sans-serif como fallback */
     font-family: "Chakra Petch", sans-serif;
     
     /* Adiciona uma margem inferior de 100 pixels */
-    margin-bottom: 10px;
+    margin-bottom: 100px;
 }
