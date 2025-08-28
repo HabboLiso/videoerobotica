@@ -54,12 +54,12 @@ categoria-videos {
     margin-top: 50px;
 }
 
-.categoria-videos img {
+categoria-videos img {
     opacity: 0.5;
     height: 200px;
 }
 
-.categoria-videos img:hover {
+categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid green;
 }
